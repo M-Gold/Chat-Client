@@ -1,0 +1,9 @@
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\bin\Debug\IM Thing.exe.config
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\bin\Debug\IM Thing.exe
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\bin\Debug\IM Thing.pdb
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM_Thing.Form1.resources
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM_Thing.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM Thing.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM Thing.exe
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM Thing.pdb
+c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM Thing.csprojResolveAssemblyReference.cache
