@@ -7,3 +7,6 @@ c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\
 c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM Thing.exe
 c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM Thing.pdb
 c:\users\matt\documents\visual studio 2013\Projects\IM Thing\IM Thing\obj\Debug\IM Thing.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\IM Thing\Chat-Client\bin\Debug\IM Thing.exe.config
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\IM Thing\Chat-Client\obj\Debug\IM Thing.exe
+C:\Users\Matt\Documents\Visual Studio 2013\Projects\IM Thing\Chat-Client\obj\Debug\IM Thing.pdb
